@@ -34,7 +34,7 @@ public class Game extends JFrame implements ActionListener{
 
 
         Game(){
-
+            // design still in progress
             this.setTitle("Number-Guessing");
             this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
             this.setLayout(new GridLayout(4, 3));
